@@ -5,6 +5,8 @@ Created on Wed Sep 30 13:37:03 2020
 @author: kirby
 """
 
+
+# PLEASE NOTE: LINES 49-175 ARE INTELLECTUAL PROPERTY OF ERIK NORDQUIST
 import pandas as pd
 import numpy as np
 
